@@ -96,6 +96,7 @@ for (let i = 0; i < numbers.length; i++) {
         count = count + 1;
     } 
 }
+console.log("Even count: " + count);
 
 // STEP 9: Find the largest number.
 //         Start with the first number as the largest.
