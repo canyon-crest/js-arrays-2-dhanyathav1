@@ -68,7 +68,7 @@ for (let i = 0; i < numbers.length; i++) {
         numString = numString + numbers[i] + ", ";
     }
 }
-console.log(numString);
+console.log("Numbers: " + numString);
 
 // STEP 6: Calculate the sum of all numbers.
 //         Use a for loop to add each number to a running total.
